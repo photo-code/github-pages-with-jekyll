@@ -1,6 +1,6 @@
-
-title: minima: Camera learn to take a photo of peaople in front and use it to make and collage painting
-author: photo-code
+theme: minima.
+title: Camera learn to take a photo of peaople in front and use it to make and collage painting.
+author: photo-code.
 email: jabrand31@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I want to make a camera that takes photos of people that 
